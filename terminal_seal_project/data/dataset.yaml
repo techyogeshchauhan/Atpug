@@ -1,0 +1,13 @@
+train: D:\Atpug\terminal_seal_project\data\images\train
+val: D:\Atpug\terminal_seal_project\data\images\val
+test: D:\Atpug\terminal_seal_project\data\images\test
+
+nc: 1
+names: ['terminal_seal']
+
+# train: D:/Atpug/terminal_seal_project/data/images/train
+# val: D:/Atpug/terminal_seal_project/data/images/val
+# test: D:/Atpug/terminal_seal_project/data/images/test
+
+# nc: 1
+# names: ['terminal_seal']

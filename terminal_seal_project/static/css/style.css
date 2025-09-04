@@ -1,0 +1,54 @@
+body {
+    background: linear-gradient(120deg, #e0e7ef 0%, #f5f7fa 100%);
+    color: #222;
+    font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+}
+.card {
+    background-color: #fff;
+    border: 1px solid #e3e6ed;
+    border-radius: 1rem;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+}
+.btn-primary {
+    background-color: #003366;
+    border-color: #003366;
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    transition: background 0.2s;
+}
+.btn-primary:hover {
+    background-color: #00509e;
+    border-color: #00509e;
+}
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    transition: background 0.2s;
+}
+.btn-success:hover {
+    background-color: #218838;
+    border-color: #218838;
+}
+.form-control {
+    background-color: #f5f7fa;
+    color: #222;
+    border: 1px solid #bfc9d9;
+    border-radius: 0.5rem;
+    box-shadow: none;
+}
+.form-control:focus {
+    background-color: #fff;
+    color: #222;
+    border-color: #003366;
+    box-shadow: 0 0 0 0.2rem rgba(0,51,102,0.08);
+}
+.alert {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+    border-radius: 0.5rem;
+}

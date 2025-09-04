@@ -1,0 +1,11 @@
+opencv-python 
+pandas 
+numpy 
+scikit-learn 
+joblib
+ultralytics
+opencv-python
+pandas
+pillow
+openpyxl
+matplotlib
